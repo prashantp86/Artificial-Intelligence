@@ -1,0 +1,5 @@
+course_score_network_fit<-bn.fit(course_score_network, course_score)
+plot(course_score_network)
+dsep(course_score_network,"EC100","HS101")
+plot(cpdag(course_score_network))
+print(course_score_network_fit)
