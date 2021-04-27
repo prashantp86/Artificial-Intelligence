@@ -1,7 +1,5 @@
 %-------------------------------------------------------
 % Author : Pratik Shah
-% Date : 29 November, 2019
-% Workshop on AI
 % Example: Find Value Function for the given Policy 
 %
 % 4 states - [tl,bl,tr,br]
