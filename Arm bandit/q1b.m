@@ -1,9 +1,6 @@
 %----------------------------------------------
-% Lab Assignment -9
-% Group - 2
 % Ref: Reinforcement Learning, Sutton and Barto
 %----------------------------------------------
-% Question - 1 - B
 % Binary Bandit B
 % Two actions 1 and 2
 % Rewards are stochastic 1-Success/ 0-Failure
