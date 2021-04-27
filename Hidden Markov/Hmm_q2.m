@@ -1,12 +1,3 @@
-% Exercise on EM
-% Author: Pratik Shah
-% Date: February 21, 2020
-% 
-% Ten bent coins, Unknown Biases, Equally likely to get selected for tossing
-% Given T observation sequences 
-% Parameter learning using Expectation maximization
-%
-% Reference: What is expectation maximization algorithm? Chuong B Do and Serafim Batzoglou, Nature Biotechnology, Vol 26, Num 8, Aug 2008
 
 clear all;
 close all;
