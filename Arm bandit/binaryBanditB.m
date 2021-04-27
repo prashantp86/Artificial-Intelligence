@@ -1,8 +1,6 @@
 function [value] = binaryBanditB(action)
 %----------------------------------------------
 % Exercise: Evaluation vs. Instruction
-% CS308 AI, IIITV
-% Winter 2018-19
 % Author : Pratik Shah
 % Ref: Reinforcement Learning, Sutton and Barto
 %----------------------------------------------
