@@ -1,7 +1,6 @@
 %------------------------------------------------------------
 %
 % Author : Pratik Shah
-% Date : March 2, 2020
 % Demo exercise: CS308 Introduction to AI
 %
 % (Conditional) Markov Random Field for Image Denoising
