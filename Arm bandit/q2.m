@@ -1,9 +1,6 @@
 %----------------------------------------------
-% Lab Assignment -9
-% Group - 2
 % Ref: Reinforcement Learning, Sutton and Barto
 %----------------------------------------------
-% Question - 2 and 3
 % 10 armed Bandit 
 % Two actions 1 and 2
 % Rewards are non-stationary
